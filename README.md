@@ -1,11 +1,11 @@
 Wersja Polska (Polish Version)
-Dino Polska S.A. (WSE: DNP) – Model DCF i analiza fundamentalna
-📌 Przegląd Projektu
+# Dino Polska S.A. (WSE: DNP) – Model DCF i analiza fundamentalna
+ Przegląd Projektu
 
 Model wyceny fundamentalnej Dino Polska S.A. przygotowany według standardów Equity Research. Projekt analizuje rentowność i dynamikę wzrostu sieci, wskazując na przewartościowanie rynkowe spółki.
 
-Teza: Rekomendacja SPRZEDAJ z ceną docelową 29,25 PLN (-26,18% względem kursu 39,63 PLN).
-🏗 Struktura Modelu
+## Teza: Rekomendacja SPRZEDAJ z ceną docelową 29,25 PLN (-26,18% względem kursu 39,63 PLN).
+## Struktura Modelu
 
     Historicals: Analiza danych finansowych 2020-2024 i LTM.
 
@@ -17,7 +17,7 @@ Teza: Rekomendacja SPRZEDAJ z ceną docelową 29,25 PLN (-26,18% względem kursu
 
     Summary: Interaktywny dashboard z analizą wrażliwości i tezą inwestycyjną.
 
-⚙️ Kluczowe Aspekty Techniczne
+## Kluczowe Aspekty Techniczne
 
     Normalizacja TV: CAPEX w okresie terminalnym konwerguje do poziomu amortyzacji (1,70%), co urealnia wycenę w fazie dojrzałej.
 
@@ -27,7 +27,7 @@ Teza: Rekomendacja SPRZEDAJ z ceną docelową 29,25 PLN (-26,18% względem kursu
 
     Wrażliwość 2D: Macierz analizująca wpływ zmian g i WACC na wartość akcji.
 
-📊 Wnioski
+## Wnioski
 
     Rynek wycenia spółkę przy optymistycznym g>3,5%; model przyjmuje bezpieczne 2,5%.
 
@@ -37,12 +37,12 @@ Teza: Rekomendacja SPRZEDAJ z ceną docelową 29,25 PLN (-26,18% względem kursu
 
 English Version (Wersja Angielska)
 Dino Polska S.A. (WSE: DNP) – DCF Model & Fundamental Analysis
-📌 Project Overview
+Project Overview
 
 An Equity Research grade fundamental valuation model for Dino Polska S.A., focusing on operational profitability and network expansion dynamics. The model identifies significant market overvaluation.
 
-Thesis: SELL recommendation with a target price of 29.25 PLN (-26.18% downside vs. 39.63 PLN market price).
-🏗 Model Structure
+## Thesis: SELL recommendation with a target price of 29.25 PLN (-26.18% downside vs. 39.63 PLN market price).
+## Model Structure
 
     Historicals: 2020-2024 financial data and LTM analysis.
 
@@ -54,7 +54,7 @@ Thesis: SELL recommendation with a target price of 29.25 PLN (-26.18% downside v
 
     Summary: Interactive dashboard with sensitivity analysis and investment summary.
 
-⚙️ Technical Highlights
+## Technical Highlights
 
     Terminal Value Normalization: Terminal CAPEX converges to depreciation (1.70%), reflecting a steady-state growth phase.
 
@@ -64,7 +64,7 @@ Thesis: SELL recommendation with a target price of 29.25 PLN (-26.18% downside v
 
     2D Sensitivity: Data table analyzing the impact of g and WACC fluctuations on the share price.
 
-📊 Key Findings
+## Key Findings
 
     Market pricing implies g>3.5%; the model assumes a realistic 2.5% perpetuity growth.
 
